@@ -9,7 +9,7 @@ public class TrafficLights {
         int color;
         Scanner scr = new Scanner(System.in);
         while (true) {
-            System.out.println("Введите число которе будет отвечать за цвет: 1-краcный, 2-желтый, 3-зеленый,4-мигающий желтый");
+            System.out.println("Введите число которое будет отвечать за цвет: 1-краcный, 2-желтый, 3-зеленый,4-мигающий желтый");
 //        Scanner scr = new Scanner(System.in);
             color = scr.nextInt();
             int time = 5;
