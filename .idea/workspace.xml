@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af81491c-262e-4fd2-8356-807f1afdbdf6" name="Default Changelist" comment="" />
+    <list default="true" id="af81491c-262e-4fd2-8356-807f1afdbdf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/TrafficLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrafficLights.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TrafficLights.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-181">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="74">
+              <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
               <folding>
-                <marker date="1551475801097" expanded="true" signature="192:404" ph="..." />
+                <marker date="1551476300199" expanded="true" signature="192:357" ph="..." />
               </folding>
             </state>
           </provider>
@@ -75,7 +77,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551475894842" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551476300403" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
@@ -205,10 +207,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TrafficLights.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-181">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="74">
+          <caret line="11" column="129" selection-start-line="11" selection-start-column="129" selection-end-line="11" selection-end-column="129" />
           <folding>
-            <marker date="1551475801097" expanded="true" signature="192:404" ph="..." />
+            <marker date="1551476300199" expanded="true" signature="192:357" ph="..." />
           </folding>
         </state>
       </provider>
