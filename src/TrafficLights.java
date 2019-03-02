@@ -16,20 +16,20 @@ public class TrafficLights {
             if (color == 1) {
                 System.out.println("Загорается красный");
                 do {
-                    System.out.println("Время работы светофора " + time + " секунд");
+                    System.out.println("оставшееся время работы " + time + " секунды");
                 }
                 while (--time > 0);
 
             } else if (color == 2) {
                 do {
-                    System.out.println("Время работы светофора " + time + " секунд");
+                    System.out.println("оставшееся время работы " + time + " секунды");
                 }
                 while (--time > 0);
 
                 System.out.println("Загорается желтый");
             } else if (color == 3) {
                 do {
-                    System.out.println("Время работы светофора " + time + " секунд");
+                    System.out.println("оставшееся время работы " + time + " секунды");
                 }
                 while (--time > 0);
 
